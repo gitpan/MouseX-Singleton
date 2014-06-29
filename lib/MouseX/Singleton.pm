@@ -4,7 +4,7 @@ use utf8;
 use attributes;
 use Mouse;
 
-our $VERSION = '0.5.1';
+our $VERSION = '0.5.2';
 
 our $context;
 sub import {
